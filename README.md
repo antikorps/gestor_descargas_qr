@@ -6,8 +6,8 @@ El tamaño máximo adminitido para los archivos es 512.0 MiB y dependiendo de su
 El programa se ofrece compilado para GNU/Linux y Windows con arquitecturas amd64 (compatible para la mayor parte de los equipos). Esto significa que únicamente es necesario descargar el archivo y ejecutarlo, sin ningún tipo de instalación. Una vez ejecutado se creará en el mismo directorio un archivo llamado bbdd.sqlite que contendrá la información de todos los registros creados.
 
 ## Descarga:
-- [GNU/Linux](https://go.dev/)
-- [Windows](https://go.dev/)
+- [GNU/Linux](https://github.com/antikorps/gestor_descargas_qr/raw/main/bin/linux/gestor_descargas_qr-amd64-linux-amd64)
+- [Windows](https://github.com/antikorps/gestor_descargas_qr/raw/main/bin/windows/gestor_descargas_qr-amd64.exe)
 
 ## Imágenes
 ### Subiendo un archivo
